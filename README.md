@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="content/soil.jpg" width="520px"/>
+    <img src="content/soil.jpg" width="768px"/>
 </p>
 
-<h1 align="center">Hello.</h1>
-<h3 align="center">I'm Noury Janse, a Front End Engineer.
-Passionate about coding since 2008.</h3>
+<p align="center" style="font-size: 32px; margin: 0;">Hello.</p>
+<p align="center" style="font-size: 16px; margin-bottom: 32px;">I'm Noury Janse, a Front End Engineer.
+Passionate about coding since 2008.</p>
 
 ```json
 {
@@ -43,6 +43,6 @@ Passionate about coding since 2008.</h3>
 
 [![Linkedin: NouryJanse](https://img.shields.io/badge/-NouryJanse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/NouryJanse/)](https://www.linkedin.com/in/NouryJanse/)
 
-<p align="center">
-Check out my public repositories ⬇️
+<p align="center" style="font-size: 24px;">
+Check out my public repositories ⬇
 </p>

@@ -2,8 +2,8 @@
     <img src="content/soil.jpg" width="768px"/>
 </p>
 
-<p align="center" style="font-size: 32px; margin: 0;">Hello.</p>
-<p align="center" style="font-size: 16px; margin-bottom: 32px;">I'm Noury Janse, a Front End Engineer.
+<h3 align="center">Hello</h3>
+<p align="center">I'm Noury Janse, a Front End Engineer.
 Passionate about coding since 2008.</p>
 
 ```json
@@ -41,8 +41,6 @@ Passionate about coding since 2008.</p>
 }
 ```
 
-[![Linkedin: NouryJanse](https://img.shields.io/badge/-NouryJanse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/NouryJanse/)](https://www.linkedin.com/in/NouryJanse/)
-
-<p align="center" style="font-size: 24px;">
+<p align="center">
 Check out my public repositories ⬇
 </p>

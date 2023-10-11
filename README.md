@@ -36,7 +36,7 @@ Passionate about coding since 2008.</p>
     "software": ["Chrome", "Warp", "VS Code"],
     "saas": ["GitHub", "GitLab", "Bitbucket", "Algolia"]
   },
-  "monkeyTypeWPM": "105.16",
+  "monkeyTypeWPM": "123.59",
   "devBeliefs": ["Ship fast and often.", "Prototype first, perfect later."],
   "funFact": "Taking good care of (house)plants makes me feel relaxed."
 }

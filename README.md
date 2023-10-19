@@ -14,27 +14,27 @@ Passionate about coding since 2008.</p>
   "technologies": {
     "languages": {
       "learned": ["JavaScript (ES6+)", "Typescript", "SQL", "PostgreSQL", "HTML", "SCSS"],
-      "learning": ["Rust"],
+      "learning": ["Rust", "Remix"],
       "interests": ["Remix", "Astro", "Apollo", "Electron", "Tauri", "Zustand"]
     },
     "frontEnd": {
-      "js_ts": ["React", "Redux"],
-      "css": ["Tailwind", "Radix"],
+      "js_ts": ["React", "Redux", "Remix"],
+      "css": ["Tailwind", "Radix", "Ant Design"],
       "testing": ["Jest", "React Testing Library"]
     },
     "backEnd": {
-      "js": ["Node.js", "Fastify", "Next.JS", "Prisma"],
+      "js": ["Node.js", "Express", "Fastify", "Next.JS", "Prisma", "Socket.io"],
       "databases": ["PostgreSQL", "MongoDB"]
     },
     "API": ["GraphQL", "REST"],
-    "hosting": ["Netlify", "Vercel", "Google"],
-    "pipelines": ["GitLab CI/CD", "GitHub Actions"],
-    "soft": ["Scrum", "Strategy and Architecture design", "Coaching", "Web performance"]
+    "hosting": ["Netlify", "Vercel", "Google Cloud"],
+    "vc_pipelines": ["GitLab CI/CD", "GitHub Actions", "Bitbucket"],
+    "soft": ["Coaching and peering", "Scrum", "Strategy and Architecture design", "Web performance"]
   },
   "tooling": {
     "hardware": ["Macbook", "iPhone"],
     "software": ["Chrome", "Warp", "VS Code"],
-    "saas": ["GitHub", "GitLab", "Bitbucket", "Algolia"]
+    "saas": ["Algolia"]
   },
   "monkeyType": {
     "WPM": "123.59",

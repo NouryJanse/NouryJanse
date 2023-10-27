@@ -15,20 +15,20 @@ Passionate about coding since 2008.</p>
     "languages": {
       "learned": ["JavaScript (ES6+)", "Typescript", "SQL", "PostgreSQL", "HTML", "SCSS"],
       "learning": ["Rust", "Remix"],
-      "interests": ["Remix", "Astro", "Apollo", "Electron", "Tauri", "Zustand"]
+      "interests": ["Astro", "Preact", "Apollo", "Electron", "Tauri", "Zustand"]
     },
     "frontEnd": {
       "js_ts": ["React", "Redux", "Remix"],
-      "css": ["Tailwind", "Radix", "Ant Design"],
+      "css": ["Tailwind", "Radix UI", "Ant Design"],
       "testing": ["Jest", "React Testing Library"]
     },
     "backEnd": {
       "js": ["Node.js", "Express", "Fastify", "Next.JS", "Prisma", "Socket.io"],
-      "databases": ["PostgreSQL", "MongoDB"]
+      "databases": ["PostgreSQL", "MySQL", "MongoDB"]
     },
     "API": ["GraphQL", "REST"],
     "hosting": ["Netlify", "Vercel", "Google Cloud"],
-    "vc_pipelines": ["GitLab CI/CD", "GitHub Actions", "Bitbucket"],
+    "vc_pipelines": ["GitLab CI/CD", "GitHub Actions", "Bitbucket Pipelines"],
     "soft": ["Coaching and peering", "Scrum", "Strategy and Architecture design", "Web performance"]
   },
   "tooling": {
@@ -42,8 +42,7 @@ Passionate about coding since 2008.</p>
     "consistency": "71.15"
   },
   "devBeliefs": ["Ship fast and often.", "Prototype first, perfect later."],
-  "funFact": "Taking good care of (house)plants makes me feel relaxed."
-}
+  "funFact": "Taking good care of
 ```
 
 <p align="center">

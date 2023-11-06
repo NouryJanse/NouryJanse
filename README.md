@@ -14,8 +14,8 @@ Passionate about coding since 2008.</p>
   "technologies": {
     "languages": {
       "learned": ["JavaScript (ES6+)", "Typescript", "SQL", "PostgreSQL", "HTML", "SCSS"],
-      "learning": ["Rust", "Remix"],
-      "interests": ["Astro", "Preact", "Apollo", "Electron", "Tauri", "Zustand"]
+      "learning": ["Rust"],
+      "interests": ["Astro", "Remix", "Electron", "Tauri", "Zustand"]
     },
     "frontEnd": {
       "js_ts": ["React", "Redux", "Remix"],
@@ -28,21 +28,17 @@ Passionate about coding since 2008.</p>
     },
     "API": ["GraphQL", "REST"],
     "hosting": ["Netlify", "Vercel", "Google Cloud"],
-    "vc_pipelines": ["GitLab CI/CD", "GitHub Actions", "Bitbucket Pipelines"],
-    "soft": ["Coaching and peering", "Scrum", "Strategy and Architecture design", "Web performance"]
+    "vc_pipelines": ["GitLab CI/CD", "GitHub Actions", "Bitbucket Pipelines"]
   },
-  "tooling": {
-    "hardware": ["Macbook", "iPhone"],
-    "software": ["Chrome", "Warp", "VS Code"],
-    "saas": ["Algolia"]
-  },
+  "tooling": ["Macbook", "iPhone", "Chrome", "Warp", "VS Code", "Algolia"],
   "monkeyType": {
     "WPM": "123.59",
     "accuracy": "94.28",
     "consistency": "71.15"
   },
   "devBeliefs": ["Ship fast and often.", "Prototype first, perfect later."],
-  "funFact": "Taking good care of
+  "funFact": "Taking good care of (house)plants makes me feel relaxed."
+}
 ```
 
 <p align="center">

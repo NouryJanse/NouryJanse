@@ -6,7 +6,7 @@
     "languages": {
       "learned": ["JavaScript (ES6+)", "Typescript", "SQL", "PostgreSQL", "HTML", "SCSS"],
       "learning": ["Rust", "Astro"],
-      "interests": ["Astro", "Electron", "Tauri", "Zustand"]
+      "interests": ["Electron", "Tauri", "Zustand"]
     },
     "frontEnd": {
       "js_ts": ["React", "Redux", "Astro", "Preact"],

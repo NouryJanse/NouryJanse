@@ -14,11 +14,11 @@ Passionate about coding since 2008.</p>
   "technologies": {
     "languages": {
       "learned": ["JavaScript (ES6+)", "Typescript", "SQL", "PostgreSQL", "HTML", "SCSS"],
-      "learning": ["Rust"],
-      "interests": ["Astro", "Remix", "Electron", "Tauri", "Zustand"]
+      "learning": ["Rust", "Astro"],
+      "interests": ["Electron", "Tauri", "Zustand"]
     },
     "frontEnd": {
-      "js_ts": ["React", "Redux", "Remix"],
+      "js_ts": ["React", "Redux", "Astro", "Preact"],
       "css": ["Tailwind", "Radix UI", "Ant Design"],
       "testing": ["Jest", "React Testing Library"]
     },
@@ -27,7 +27,8 @@ Passionate about coding since 2008.</p>
       "databases": ["PostgreSQL", "MySQL", "MongoDB"]
     },
     "API": ["GraphQL", "REST"],
-    "hosting": ["Netlify", "Vercel", "Google Cloud"],
+    "hosting": ["Vercel", "Vercel", "Render", "Google Cloud"],
+    "SaaS": ["Hygraph"],
     "vc_pipelines": ["GitLab CI/CD", "GitHub Actions", "Bitbucket Pipelines"]
   },
   "tooling": ["Macbook", "iPhone", "Chrome", "Warp", "VS Code", "Algolia"],
